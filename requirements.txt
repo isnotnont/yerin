@@ -1,0 +1,7 @@
+streamlit 
+numpy 
+pandas 
+folium
+re
+seaborn 
+geopandas 
